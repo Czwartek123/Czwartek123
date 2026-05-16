@@ -4,8 +4,7 @@ Frontend Developer & UI/UX Designer dedicated to building clean, user-friendly w
 
 # Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:bartexvip2007@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-mlodybabol-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/481803020682657823)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:bartexvip2007@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-mlodybabol-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/481803020682657823)
 
 # Tech Stack
 
